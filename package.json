@@ -10,9 +10,3 @@
     "start": "react-scripts start"
   }
 }
-
-{
-  "engines": {
-    "node": "18.x"
-  }
-}
